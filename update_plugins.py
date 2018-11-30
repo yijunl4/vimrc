@@ -10,6 +10,7 @@ import zipfile
 import shutil
 import tempfile
 import requests
+import collections
 
 from os import path
 
